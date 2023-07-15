@@ -1,0 +1,63 @@
+
+#hamd {
+    font-family: 'Al Qalam Quran Majeed Web', serif;
+    color: white;
+    text-align: center;
+    height: 35px;
+    background-color:#0fd841;
+    width: 100%;
+}
+.dropdown {
+  position: relative;
+    display: inline-block;
+    margin-right: 20px;
+    float: right;
+    
+  }
+  
+  .dropbtn {
+    background-color:#5a659e;
+    color: #fff;
+    border: none;
+    width: 120px;
+    height: 50px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-family: 'attari font', serif;
+    border-radius: 30px;
+    cursor: pointer;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    font-family: 'attari font', serif;
+    text-align: center;
+    background-color: #e1ebe5;
+    min-width: 120px;
+    box-shadow: 0 8px 20px 0 rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .mohsin {
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    font-size: 50px;
+    margin: 4px;
+    float: right;
+    
+    flo
+    border: 2px solid;
+  }
