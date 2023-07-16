@@ -2,14 +2,13 @@
 body{
   background-color: #e1ebe5;
 }
-#hamd {
+header{
     font-family: 'Al Qalam Quran Majeed Web', serif;
     color: white;
     font-size: 20px; 
     align-items: center;
     text-align: center;
-    height: 35px;
-    background-color:#0fd841;
+    background-color:#3f5244;
     width: 100%;
 }
 .dropdown {
@@ -73,13 +72,13 @@ body{
   text-align: center;
   font-weight: bold;
   clear: both;
-  font: 20px 'attari font', serif;
+  font-family: "Mehr Nastaliq Web 3";mso-ascii-font-family:"Jameel Noori Nastaleeq New";
   background-color: white;
   word-spacing: 10px;
   padding-top: 8px;
  }
  iframe {
-  width: 700px;
+  width: 100%;
   height: 400px;
   
 
